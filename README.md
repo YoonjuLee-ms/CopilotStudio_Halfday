@@ -1,4 +1,4 @@
-# Copilot Studio Half-day
+# Copilot Studio Half-day HandsOn
 
 ## 교육일정
 2025/04/10 목요일 13:00~17:00
