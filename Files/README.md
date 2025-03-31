@@ -1,4 +1,4 @@
-# 지식 소스 파일 설명
+# 파일 설명
 
 1. [qna.xlsx](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Files/qna.xlsx)</br>
   한국 위키피디아 사이트에서 추출한 내용을 질문과 답변, 키워드, 링크로 분류한 액셀 파일입니다.</br>
