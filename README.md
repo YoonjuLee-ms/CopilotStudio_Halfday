@@ -7,7 +7,7 @@
 |--|--|--|--|
 |13:00~13:10|회사소개|회사 연혁 및 주요 사업 분야||
 |13:10~13:30|솔루션 소개|Copilot Studio 및 활용 시나리오 소개||
-|13:30~13:45|Copilot Studio 실습 준비|Copilot Studio 접속 및 기본 환경 설정</br>Copilot Studio UI 탐색||
+|13:30~13:45|[Copilot Studio 실습 준비](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab01/Lab01_01.md)|Copilot Studio 접속 및 기본 환경 설정</br>Copilot Studio UI 탐색||
 |13:45~14:00|휴식시간|||
 |14:00~14:35|에이전트 생성 및 지식 소스 활용|에이전트 생성 후 테스트</br>지식 소스 업로드 및 활용||
 |14:35~14:50|휴식시간|||
