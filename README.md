@@ -14,4 +14,4 @@
 |14:50~15:45|[클래식 에이전트 - 토픽](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab03/Lab03_01.md)|토픽, 엔터티 소개</br>토픽 생성 실습</br>토픽에서 Power Automate Flow 호출 실습</br>적응형 카드 사용 실습</br>AI Builder 프롬프트 호출 실습||
 |15:45~16:00|휴식시간|||
 |16:00~16:30|[생성형 에이전트 - 커넥터, 토픽 사용](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab04/Lab04_01.md)|클래식과 생성형 차이 소개</br>생성형 에이전트로 날씨 예보 작업 생성 실습</br>생성형 에이전트로 주문 토픽 생성 실습||
-|16:30~17:00|Q&A 및 마무리|참가자 질의응답 Q&A</br>교육 내용 복습 및 추가 학습 자료 안내||
+|16:30~17:00|Q&A 및 마무리|참가자 질의응답 Q&A</br>교육 내용 복습 및 [추가 학습 자료 안내](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Additional/%EC%B0%B8%EC%A1%B0.md)||
