@@ -9,7 +9,7 @@
 |13:10~13:30|솔루션 소개|Copilot Studio 및 활용 시나리오 소개||
 |13:30~13:45|[Copilot Studio 실습 준비](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab01/Lab01_01.md)|Copilot Studio 접속 및 기본 환경 설정</br>Copilot Studio UI 탐색||
 |13:45~14:00|휴식시간|||
-|14:00~14:35|에이전트 생성 및 지식 소스 활용|에이전트 생성 후 테스트</br>지식 소스 업로드 및 활용||
+|14:00~14:35|[에이전트 생성 및 지식 소스 활용](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab02/Lab02_01.md)|에이전트 생성 후 테스트</br>지식 소스 업로드 및 활용||
 |14:35~14:50|휴식시간|||
 |14:50~15:45|클래식 에이전트 - 토픽|토픽, 엔터티 소개</br>토픽 생성 실습</br>토픽에서 Power Automate Flow 호출 실습</br>적응형 카드 사용 실습</br>AI Builder 프롬프트 호출 실습||
 |15:45~16:00|휴식시간|||
