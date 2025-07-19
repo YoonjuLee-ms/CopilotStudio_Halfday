@@ -5,7 +5,7 @@
 
 |시간||주제|세부내용|
 |--|:--:|--|--|
-|13:30~13:40|10분|회사소개|회사 연혁 및 주요 사업 분야|
+|13:30~13:40|10분|참여자 소개|Microsoft팀 및 삼성물산팀|
 |13:40~14:00|20분|솔루션 소개|Copilot Studio 소개|
 |14:00~14:15|15분|[Copilot Studio 실습 준비](https://github.com/FDX-edu/CopilotStudio_Halfday/blob/main/Lab01/Lab01_01.md)|Copilot Studio 접속 및 기본 환경 설정</br>Copilot Studio UI 탐색|
 |14:15~14:30|15분|휴식시간||
